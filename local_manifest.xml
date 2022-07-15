@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/land" name="ItoRenz-Build/android_device_xiaomi_land.git" remote="github" revision="crDroid-8.x" />
+ <project path="device/xiaomi/msm8937-common" name="mi-msm8937/android_device_xiaomi_msm8937-common.git" remote="github" revision="crDroid-8.x" />
+ <project path="vendor/xiaomi" name="sairam1411/android_vendor_land.git" remote="github" revision="master" />
+ <project path="kernel/xiaomi/mi8937" name="ItoRenz-Build/android_kernel_xiaomi_mi8937.git" remote="github" revision="crDroid-8.x" />
+ 
+</manifest>
